@@ -1,6 +1,6 @@
-package week04.test;
+package week03.last;
 
-public class MultiplyOperation extends AbstractOperation {
+public class MultiplyOperation extends AbstractOperation{
 
     @Override
     double operate(int firstNumber, int secondNumber) {
